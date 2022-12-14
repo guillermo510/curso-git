@@ -1,1 +1,2 @@
 contenido del archivo de texto numero 12
+esta es una segunda linea de texto
