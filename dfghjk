@@ -1,0 +1,129 @@
+[33mcommit c9fd373187cb700b49e5a8e4ae8c143a8063cfee[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Tue Dec 20 20:26:16 2022 -0600
+
+    hola
+
+[33mcommit 87c9be427eaae1fdcd3e4fbd03e7ce521dadbbc9[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Tue Dec 20 19:06:09 2022 -0600
+
+    archivo random agregado
+
+[33mcommit 4ab3a791963bd101bdd91fe3a0e0c5e753422e99[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 44f51e9 65d0c2a
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:50:47 2022 -0600
+
+    conflicto resuelto
+
+[33mcommit 65d0c2a2f38ff20e76f9cfaf274fbdc5c95a35d5[m[33m ([m[1;31morigin/rama[m[33m, [m[1;32mrama[m[33m)[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:43:54 2022 -0600
+
+    se agregó una tercera línea de texto en texto12.txt
+
+[33mcommit 44f51e958bbd65a6136a090bcebb04c5cbd7767f[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:42:42 2022 -0600
+
+    segunda linea de texto agregada
+
+[33mcommit 1229df8ebd47b0a13b6e9d284068c23846b7bef9[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:39:40 2022 -0600
+
+    se agreó contenido a texto12.txt
+
+[33mcommit b203164962dc1e526248269e5230ce030c51eb67[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:37:18 2022 -0600
+
+    texto12.txt se agregó
+
+[33mcommit 2371baa49488a1b02cda67aeed4eab08cdca9a36[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:50:27 2022 -0600
+
+    archivos agregados
+
+[33mcommit 4b855947d252305e04a739db73ab7050645b108d[m
+Merge: 2cdaee0 6aa1821
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:47:42 2022 -0600
+
+    Merge branch 'rama'
+
+[33mcommit 2cdaee01d0a9a5100446d9fac3b6db871695753a[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:42:29 2022 -0600
+
+    texto9.txt agregado
+
+[33mcommit 6aa1821e9493e698386ecd5b349dfe7a608ab65e[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:36:03 2022 -0600
+
+    texto8.txt agregado
+
+[33mcommit a04e4903c42c38aabd43c3aaaf974d5262535346[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:33:30 2022 -0600
+
+    texto7.txt agregado
+
+[33mcommit 654e8a1a2943fbb6bdeefecc7c1087c19e239fcb[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:28:25 2022 -0600
+
+    texto6.txt agregado
+
+[33mcommit 2a644d4d13599fc100910daa4c17522ff943af44[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:25:13 2022 -0600
+
+    texto5.txt agregado
+
+[33mcommit 912abea52dfad4e4f67809a31fe7eee44c3b763f[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:22:37 2022 -0600
+
+    probando si se agregará texto4.txt
+
+[33mcommit 81add2eb5ec18b3fc938ba988b9cedbe3974c8b9[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:16:17 2022 -0600
+
+    texto3.txt agregado
+
+[33mcommit ea9cb436fca082b6e036b9258bdfc540dc9a4e8e[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 05:06:28 2022 -0600
+
+    Se creó una rama y se agregó un archivo de texto
+
+[33mcommit 702fba3ee0a72902f2360da810fd471402550eda[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 04:34:53 2022 -0600
+
+    se creó y eliminó un archivo .exe
+
+[33mcommit 047338867f58419918e1ae30ccb6838d6f6d36de[m
+Author: guillermo510 <100100346+guillermo510@users.noreply.github.com>
+Date:   Wed Dec 14 00:09:23 2022 -0600
+
+    Archivo de texto, agregado
+    
+    este es un commit hecho desde el sitio web
+
+[33mcommit 4eae5883505d75005125dd64f4832d702aef538a[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Wed Dec 14 00:02:15 2022 -0600
+
+    Registrando la eliminación de hola.txt
+
+[33mcommit 7b65f2a6a534573998ca057e78f9a5b55d52d013[m
+Author: Guillermo <guillermo.rdz.510@gmail.com>
+Date:   Tue Dec 13 23:23:17 2022 -0600
+
+    archivos agregados
